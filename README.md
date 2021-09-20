@@ -1,0 +1,1 @@
+This is a simple website built using Bootstrap technology. It;s designed by me Alain Bruce Nishimwe, a Web Developer
